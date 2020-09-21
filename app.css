@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+nav a {
+    padding: 5px;
+}
+
+.card {
+    display: flex;
+    border: solid 1px black;
+    width: 500px;
+    margin: 25px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+img {
+    width: 250px;
+}
